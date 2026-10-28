@@ -3,5 +3,6 @@ numpy
 matplotlib
 seaborn
 statsmodels
-scikit-learn
+scipy
+scikit-learn>=1.4
 jupyter
